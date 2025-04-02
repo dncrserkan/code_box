@@ -1,0 +1,17 @@
+Usage
+	- python3 -m venv venv
+	- source venv/bin/activarte
+	- pip install -r requirements.txt
+	- python3 main.py
+
+
+SOUND EFFECTS
+    MERGED
+        - https://pixabay.com/sound-effects/collect-points-190037/
+        - Sound Effect by <a href="https://pixabay.com/users/liecio-3298866/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190037">LIECIO</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=190037">Pixabay</a>
+    GAMEOVER    
+        - https://pixabay.com/sound-effects/game-over-arcade-6435/
+        - Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6435">freesound_community</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6435">Pixabay</a>
+    YOUWIN
+        - https://pixabay.com/sound-effects/success-fanfare-trumpets-6185/
+        - Sound Effect by <a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6185">freesound_community</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6185">Pixabay</a>

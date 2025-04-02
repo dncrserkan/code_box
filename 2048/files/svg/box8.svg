@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 21.166666 21.166666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   sodipodi:docname="box8.svg"
+   inkscape:export-filename="../dc09dffe/box8.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.8556117"
+     inkscape:cx="41.108911"
+     inkscape:cy="90.128371"
+     inkscape:window-width="1033"
+     inkscape:window-height="1011"
+     inkscape:window-x="50"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="9.3370399"
+       y="21.786427"
+       width="70.287163"
+       height="58.61586"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f0b177;fill-opacity:1;stroke:none;stroke-width:0;stroke-opacity:0"
+       id="rect1-3"
+       width="21.166666"
+       height="21.166666"
+       x="0"
+       y="0"
+       ry="1.9588317" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18609714,0,0,0.1985858,2.3009445,1.1641678)"
+       id="text1"
+       style="font-size:48.5898px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#fef2e6;fill-opacity:1;stroke:#fef2e6;stroke-width:3.44337;stroke-dasharray:none;stroke-opacity:1"
+       x="2.7773438"
+       y="0"
+       inkscape:transform-center-x="-0.66037192"
+       inkscape:transform-center-y="1.2498729"><tspan
+         x="29.151397"
+         y="64.777696"
+         id="tspan3"><tspan
+           style="font-family:Poppins;-inkscape-font-specification:Poppins;text-align:center;text-anchor:middle"
+           id="tspan2">8</tspan></tspan></text>
+  </g>
+</svg>
